@@ -1,11 +1,11 @@
 {
-  "name": "Rodrigo Díaz Portfolio",
+  "name": "Rodrigo Diaz Portfolio",
   "short_name": "RD Portfolio",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
-  "description": "Portafolio de Rodrigo Díaz con experiencia en TecCreate y desarrollo móvil/web.",
+  "description": "Portafolio de Rodrigo Diaz con experiencia en TecCreate y desarrollo móvil/web.",
   "icons": [
     {
       "src": "/assets/logo.png",

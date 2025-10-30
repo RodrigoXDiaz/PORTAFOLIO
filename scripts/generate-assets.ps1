@@ -72,7 +72,7 @@ $ogGradient = New-Object System.Drawing.Drawing2D.LinearGradientBrush($ogRect, $
 $og.Graphics.FillRectangle($ogGradient, $ogRect)
 $ogTitleFont = New-Object System.Drawing.Font('Segoe UI', 58, [System.Drawing.FontStyle]::Bold)
 $ogBodyFont = New-Object System.Drawing.Font('Segoe UI', 26)
-$og.Graphics.DrawString('Rodrigo Díaz', $ogTitleFont, (New-Brush $ivory), 80, 160)
+$og.Graphics.DrawString('Rodrigo Diaz', $ogTitleFont, (New-Brush $ivory), 80, 160)
 $og.Graphics.DrawString('Generador de Presentaciones con IA', $ogBodyFont, (New-Brush $accent), 80, 260)
 $og.Graphics.DrawString('React · Django · ChatGPT · PostgreSQL · Vercel', $ogBodyFont, (New-Brush $ivory), 80, 320)
 $og.Graphics.Dispose()

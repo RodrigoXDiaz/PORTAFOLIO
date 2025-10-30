@@ -61,7 +61,7 @@ function Navbar({ links }) {
             className="text-xl font-bold tracking-tight transition-all duration-300 hover:text-accent lg:text-2xl"
             aria-label="Ir al inicio"
           >
-            Rodrigo Díaz
+            Rodrigo Diaz
           </a>
           <span className="hidden rounded-full border border-white/15 bg-white/10 px-4 py-1.5 text-[10px] uppercase tracking-[0.35em] text-white/70 lg:inline-flex">
             Mobile · Web · IA

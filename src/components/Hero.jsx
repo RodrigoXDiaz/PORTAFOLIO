@@ -123,7 +123,7 @@ function Hero() {
 
           <div className="space-y-8">
             <h1 className="bg-gradient-to-r from-white via-accentSoft to-white/70 bg-clip-text text-5xl font-black leading-tight text-transparent sm:text-6xl">
-              Rodrigo Díaz, creador de experiencias digitales híbridas
+              Rodrigo Diaz, creador de experiencias digitales híbridas
             </h1>
             <p className="text-lg leading-relaxed text-slate-200 md:text-xl">
               Ingeniero en formación que combina desarrollo móvil nativo, sistemas web con IA y liderazgo de equipos para acelerar la entrega de soluciones educativas y empresariales. Me enfoco en medir resultados y escalar funcionalidades desde el primer sprint.
@@ -227,7 +227,7 @@ function Hero() {
             <div className="relative overflow-hidden rounded-[2.5rem]">
               <img
                 src="/assets/gas.jpg"
-                alt="Rodrigo Díaz"
+                alt="Rodrigo Diaz"
                 loading="lazy"
                 className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
               />

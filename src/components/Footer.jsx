@@ -4,7 +4,7 @@ function Footer() {
     <footer className="border-t border-accent/20 bg-surface">
       <div className="section-wrapper flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between">
         <div>
-          <p className="text-sm font-semibold text-white">© {currentYear} Rodrigo Díaz · MIT License</p>
+          <p className="text-sm font-semibold text-white">© {currentYear} Rodrigo Diaz · MIT License</p>
           <p className="text-xs text-slate-400">
             Portafolio construido con React + Tailwind · Integraciones Groq | Gemini | Render · Preparado para Vercel y AWS.
           </p>

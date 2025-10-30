@@ -1,6 +1,6 @@
-# Portafolio — Rodrigo Díaz
+# Portafolio — Rodrigo Diaz
 
-Portafolio personal construido con Vite + React + Tailwind CSS para presentar el perfil de **Rodrigo Daniel Díaz Isla**, estudiante de 6to ciclo de Diseño y Desarrollo de Software en TECSUP. El sitio destaca la pasantía en TecCreate, proyectos integradores y habilidades en desarrollo móvil/web con IA.
+Portafolio personal construido con Vite + React + Tailwind CSS para presentar el perfil de **Rodrigo Daniel Diaz Isla**, estudiante de 6to ciclo de Diseño y Desarrollo de Software en TECSUP. El sitio destaca la pasantía en TecCreate, proyectos integradores y habilidades en desarrollo móvil/web con IA.
 
 ## ✨ Características principales
 - One-page responsive con navegación anclada, menú móvil y estados activos dinámicos.
@@ -82,7 +82,7 @@ Impacto: presentaciones PPTX listas en minutos; automatización que reduce horas
 5. Para mantener los assets livianos en Vercel, recuerda excluir `node_modules`, `dist` y archivos temporales en un `.vercelignore` si es necesario.
 
 ## ✅ Buenas prácticas implementadas
-- Meta tags SEO y Open Graph actualizadas para Rodrigo Díaz (`index.html` y `manifest.json`).
+- Meta tags SEO y Open Graph actualizadas para Rodrigo Diaz (`index.html` y `manifest.json`).
 - Paleta azul midnight + acento naranja; tipografía [Inter](https://fonts.google.com/specimen/Inter).
 - Animaciones y transiciones con Tailwind; `loading="lazy"` en imágenes.
 - Accesibilidad: uso de `aria-` attributes, enlaces externos seguros y navegación teclado-friendly.

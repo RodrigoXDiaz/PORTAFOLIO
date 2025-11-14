@@ -44,7 +44,7 @@ const project = {
   ],
   stack: ['Node.js', 'Vue.js', 'PostgreSQL', 'Groq', 'Gemini', 'Render', 'API REST', 'Tailwind CSS', 'Sistema Multi-Rol'],
   imageAlt: 'TecCreate - Sistema generador de presentaciones con IA',
-  liveUrl: 'https://tec-create-fronted-deployed-p8as.vercel.app/',
+  liveUrl: 'https://www.teccreate.me/',
   liveLabel: 'Ver TecCreate en vivo',
   frontendRepoUrl: 'https://github.com/RodrigoXDiaz/TecCreateFrontedDeployed.git',
   frontendRepoLabel: 'Repo frontend (Vue.js)',
